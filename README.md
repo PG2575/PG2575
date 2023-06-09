@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pranav Gujrathi
-- 👀 I’m interested in Java,data analytics and Big data driven IOT and AI
-- 🌱 I’m currently learning JAVA and advanced Java
-- 💞️ I’m looking to collaborate on Java and Spring boot framework based projects
+- 👀 I’m interested in SpringBoot Microservices Project ,data analytics and Big data driven IOT and AI
+- 🌱 I’m currently learning Devops and AWS deployments.
+- 💞️ I’m looking to collaborate on Java and Spring boot framework based projects 
 - 📫 gujrathipranav@gmail.com
 
 <!---
