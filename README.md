@@ -41,7 +41,6 @@ I'm always happy to collaborate, discuss ideas, and learn from fellow engineers.
 📫 **Email:** [gujrathipranav@gmail.com](mailto:gujrathipranav@gmail.com)
 
 
-- 📫 gujrathipranav@gmail.co
 <!---
 PG2575/PG2575 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
